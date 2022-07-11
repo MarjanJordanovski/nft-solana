@@ -1,0 +1,19 @@
+{
+    "name": "Marjan Jordanovski",
+    "symbol": "DL",
+    "image": "4.png",
+    "properties": {
+        "files": [
+            {
+                "url": "4.png",
+                "type": "image/png"
+            }
+        ],
+        "creators" : [
+            {
+                "address": "8jG8QPkLGDBConwcAFYSHP2mpLPhTaTCYi3akjC2gG4i",
+                "share": 100
+            }
+        ]
+    }
+}

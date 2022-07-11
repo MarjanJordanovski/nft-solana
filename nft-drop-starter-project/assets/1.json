@@ -1,0 +1,19 @@
+{
+    "name": "Dominic Lewin",
+    "symbol": "AMR",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "url": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators" : [
+            {
+                "address": "8jG8QPkLGDBConwcAFYSHP2mpLPhTaTCYi3akjC2gG4i",
+                "share": 100
+            }
+        ]
+    }
+}
