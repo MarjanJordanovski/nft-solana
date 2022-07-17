@@ -1,0 +1,19 @@
+{
+    "name": "Marko Markovic",
+    "symbol": "GK",
+    "image": "3.png",
+    "properties": {
+        "files": [
+            {
+                "url": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "creators" : [
+            {
+                "address": "DFNi1Y11hMf983XGkHLEfU2SSK9aPP7R5TxL46TQULT9",
+                "share": 100
+            }
+        ]
+    }
+}

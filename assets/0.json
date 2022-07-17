@@ -1,0 +1,19 @@
+{
+    "name": "Lazar Markovic",
+    "symbol": "FC",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "url": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators" : [
+            {
+                "address": "DFNi1Y11hMf983XGkHLEfU2SSK9aPP7R5TxL46TQULT9",
+                "share": 100
+            }
+        ]
+    }
+}
